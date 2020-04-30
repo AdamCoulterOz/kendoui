@@ -6,7 +6,7 @@
   "dependencies": {
     "@progress/kendo-ui": "^2019.2.710",
     "@types/jquery": "^3.3.30",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "keywords": [],
   "author": "",
